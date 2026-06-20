@@ -2,6 +2,12 @@
 
 一个基于 JSON 维护的二次元角色 / 作品资料库。
 
+目前这些数据集还在陆续补充，并不完善，很多角色的声优（cv）字段以及作品的首映年份（year）和 赛季（season）都没补充，并且有些角色名或作品名存在翻译问题。
+
+默认按照A-Z排序。
+
+个人网站，作品集：[https://hatsusumi.github.io/FinalTestamentProofILived/](https://hatsusumi.github.io/FinalTestamentProofILived/)
+
 这个仓库目前以静态数据文件为核心，适合：
 
 - 公开分发数据
@@ -20,8 +26,8 @@
 - `id`：作品唯一 ID
 - `name`：作品中文名 / 当前主显示名称
 - `name_en`：作品英文名；如果作品标题本身就是拉丁字母标题，可先与 `name` 相同
-- `year`：年份
-- `season`：赛季
+- `year`：首映的年份，通常是第一季首映的年份
+- `season`：首映的赛季
 
 它相当于这套数据里的“作品表”。
 

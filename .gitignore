@@ -1,2 +1,6 @@
 .specstory/
 .vscode/
+check-duplicate-character-names.js
+check-duplicate-ip-names.js
+reindex-ids-az.js
+import-preview-latest-utf8.txt
