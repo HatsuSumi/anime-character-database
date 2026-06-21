@@ -3,4 +3,9 @@
 check-duplicate-character-names.js
 check-duplicate-ip-names.js
 reindex-ids-az.js
+import-nomination-html.js
 import-preview-latest-utf8.txt
+name_cn.html
+name_en.html
+names_cn.txt
+names_en.txt
