@@ -6,7 +6,7 @@
 
 默认按照A-Z排序。
 
-个人网站，作品集：[https://hatsusumi.github.io/FinalTestamentProofILived/](https://hatsusumi.github.io/FinalTestamentProofILived/)
+个人网站，作品集，遗书：[https://hatsusumi.github.io/FinalTestamentProofILived/](https://hatsusumi.github.io/FinalTestamentProofILived/)
 
 这个仓库目前以静态数据文件为核心，适合：
 
