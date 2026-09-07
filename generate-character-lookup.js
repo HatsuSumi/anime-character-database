@@ -34,6 +34,14 @@ function formatJson(value) {
   return `${JSON.stringify(value, null, 4)}\n`;
 }
 
+function sortObjectByKey(value) {
+  return Object.fromEntries(
+    Object.entries(value).sort((left, right) =>
+      left[0].localeCompare(right[0], 'zh-CN-u-co-pinyin', { sensitivity: 'base', numeric: true })
+    )
+  );
+}
+
 function generateLookup(ipData, characterData) {
   if (!isPlainObject(ipData)) {
     throw new Error(`${ipFileName} 顶层必须是对象`);
@@ -155,7 +163,7 @@ function main() {
   const ipData = loadJson(ipFileName);
   const characterData = loadJson(characterFileName);
   const currentLookup = loadJson(lookupFileName);
-  const nextLookup = generateLookup(ipData, characterData);
+  const nextLookup = sortObjectByKey(generateLookup(ipData, characterData));
   const comparison = compareLookupObjects(currentLookup, nextLookup);
 
   if (mode === '--check') {

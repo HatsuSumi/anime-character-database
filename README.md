@@ -2,9 +2,9 @@
 
 一个基于 JSON 维护的二次元角色 / 作品资料库。
 
-目前这些数据集还在陆续补充，并不完善，很多角色的声优（cv）字段以及作品的首映年份（year）和 赛季（season）都没补充，并且有些角色名或作品名存在翻译问题。
+目前这些数据集还在陆续补充，并不完善，很多角色的声优（cv）字段、生日（birthday）字段，以及作品的首映年份（year）、赛季（season）和公司（company）字段都没补充，并且有些角色名或作品名存在翻译问题。
 
-默认按照A-Z排序。
+默认按照 A-Z 排序。
 
 个人网站，作品集，遗书：[https://hatsusumi.github.io/FinalTestamentProofILived/](https://hatsusumi.github.io/FinalTestamentProofILived/)
 
@@ -28,6 +28,7 @@
 - `name_en`：作品英文名；如果作品标题本身就是拉丁字母标题，可先与 `name` 相同
 - `year`：首映的年份，通常是第一季首映的年份
 - `season`：首映的赛季
+- `company`：作品的制作公司 / 关联公司；从 `characters-details.json` 同步得到的补充字段
 
 它相当于这套数据里的“作品表”。
 
@@ -44,6 +45,7 @@
 - `name_en`：角色英文名 / 罗马音
 - `ip_id`：所属作品 ID
 - `cv`：声优列表
+- `birthday`：角色生日；从 `characters-details.json` 同步得到的补充字段
 - `avatar`：角色头像 URL
 
 其中 `cv` 使用字符串数组表示：
