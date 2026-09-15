@@ -9391,7 +9391,7 @@
     },
     "char_000967": {
         "id": "char_000967",
-        "name": "零二",
+        "name": "02",
         "name_en": "Zero Two",
         "ip_id": "ip_000722",
         "cv": [
@@ -18898,7 +18898,7 @@
     },
     "char_001946": {
         "id": "char_001946",
-        "name": "由依",
+        "name": "芳冈由依",
         "name_en": "Yui-nyan",
         "ip_id": "ip_000706",
         "cv": [],
@@ -21527,5 +21527,71 @@
         ],
         "avatar": "",
         "birthday": ""
+    },
+    "char_002216": {
+        "id": "char_002216",
+        "name": "奥斯瓦尔德·帕纳科塔",
+        "name_en": "Oswald Parnacorta",
+        "ip_id": "ip_000790",
+        "cv": [
+            "佐藤拓也"
+        ],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002217": {
+        "id": "char_002217",
+        "name": "姚麟",
+        "name_en": "Yao Lin",
+        "ip_id": "ip_000138",
+        "cv": [
+            "宫野真守"
+        ],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002218": {
+        "id": "char_002218",
+        "name": "夏油杰",
+        "name_en": "Getō Suguru",
+        "ip_id": "ip_000679",
+        "cv": [
+            "樱井孝宏"
+        ],
+        "avatar": "",
+        "birthday": "1990年2月3日"
+    },
+    "char_002219": {
+        "id": "char_002219",
+        "name": "特斯卡特利波卡",
+        "name_en": "Tezcatlipoca",
+        "ip_id": "ip_000728",
+        "cv": [
+            "三上哲"
+        ],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002220": {
+        "id": "char_002220",
+        "name": "菲利克斯·阿盖尔",
+        "name_en": "Felix Argyle",
+        "ip_id": "ip_000766",
+        "cv": [
+            "堀江由衣"
+        ],
+        "avatar": "",
+        "birthday": "1月16日"
+    },
+    "char_002221": {
+        "id": "char_002221",
+        "name": "木之本桃矢",
+        "name_en": "Kinomoto Tōya",
+        "ip_id": "ip_000306",
+        "cv": [
+            "关智一"
+        ],
+        "avatar": "",
+        "birthday": "2月29日"
     }
 }

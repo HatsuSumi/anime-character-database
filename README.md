@@ -28,7 +28,7 @@
 - `name_en`：作品英文名；如果作品标题本身就是拉丁字母标题，可先与 `name` 相同
 - `year`：首映的年份，通常是第一季首映的年份
 - `season`：首映的赛季
-- `company`：作品的制作公司 / 关联公司；从 `characters-details.json` 同步得到的补充字段
+- `company`：作品的制作公司
 
 它相当于这套数据里的“作品表”。
 
@@ -45,7 +45,7 @@
 - `name_en`：角色英文名 / 罗马音
 - `ip_id`：所属作品 ID
 - `cv`：声优列表
-- `birthday`：角色生日；从 `characters-details.json` 同步得到的补充字段
+- `birthday`：角色生日
 - `avatar`：角色头像 URL
 
 其中 `cv` 使用字符串数组表示：

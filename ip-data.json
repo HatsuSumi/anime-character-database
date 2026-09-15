@@ -5429,7 +5429,7 @@
         "year": 2020,
         "season": 10,
         "name_en": "Jujutsu Kaisen",
-        "company": ""
+        "company": "MAPPA"
     },
     "ip_000680": {
         "id": "ip_000680",
@@ -6310,5 +6310,13 @@
         "year": 0,
         "season": 0,
         "company": ""
+    },
+    "ip_000790": {
+        "id": "ip_000790",
+        "name": "圣女因太过完美不够可爱而被废除婚约并卖到邻国",
+        "name_en": "Aside by My Fiancé and Sold to Another Kingdom",
+        "year": 2025,
+        "season": 4,
+        "company": "TROYCA"
     }
 }
