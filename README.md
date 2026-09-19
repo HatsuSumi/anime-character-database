@@ -15,6 +15,44 @@
 - 前端项目直接读取 JSON
 - 用脚本做数据校验和索引生成
 
+## 如何使用
+
+你可以直接从 GitHub raw 读取最新数据，不必把 JSON 拷进自己的仓库：
+
+```js
+const CHARACTER_DATABASE_URL = 'https://raw.githubusercontent.com/HatsuSumi/anime-character-database/main/characters-data.json';
+const IP_DATABASE_URL = 'https://raw.githubusercontent.com/HatsuSumi/anime-character-database/main/ip-data.json';
+```
+
+前端示例：
+
+```js
+async function loadDatabase() {
+  const [characters, ips] = await Promise.all([
+    fetch(CHARACTER_DATABASE_URL).then((res) => res.json()),
+    fetch(IP_DATABASE_URL).then((res) => res.json()),
+  ]);
+
+  return { characters, ips };
+}
+
+const { characters, ips } = await loadDatabase();
+
+// 角色通过 ip_id 关联作品
+const character = characters.char_000007;
+const ip = ips[character.ip_id];
+
+console.log(character.name, ip.name);
+```
+
+角色和作品文件都是以 ID 为键的对象，不是数组。角色里的 `ip_id` 对应 `ip-data.json` 中的作品 ID。
+
+如果还需要按 `角色名@作品名` 精确查找，可以再读取：
+
+```js
+const CHARACTER_LOOKUP_URL = 'https://raw.githubusercontent.com/HatsuSumi/anime-character-database/main/character-lookup.json';
+```
+
 ## 文件说明
 
 ### 1. `ip-data.json`
