@@ -6422,5 +6422,53 @@
         "year": 0,
         "season": 0,
         "company": ""
+    },
+    "ip_000804": {
+        "id": "ip_000804",
+        "name": "蘑菇魔女",
+        "name_en": "Champignon no Majo",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000805": {
+        "id": "ip_000805",
+        "name": "达尔文事变",
+        "name_en": "Darwin Jihen",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000806": {
+        "id": "ip_000806",
+        "name": "非人学生与厌世教师",
+        "name_en": "Jingai Kyōshitsu no Ningen-girai Kyōshi",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000807": {
+        "id": "ip_000807",
+        "name": "被邻国王子溺爱的反派女主",
+        "name_en": "Akuyaku Reijō wa Ringoku no Ōtaishi ni Dekiai Sareru",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000808": {
+        "id": "ip_000808",
+        "name": "魔术师库诺看得见一切",
+        "name_en": "Majutsushi Kunon wa Mieteiru",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000809": {
+        "id": "ip_000809",
+        "name": "刃牙",
+        "name_en": "Baki",
+        "year": 0,
+        "season": 0,
+        "company": ""
     }
 }

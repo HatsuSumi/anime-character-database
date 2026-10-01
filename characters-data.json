@@ -21863,5 +21863,203 @@
         "cv": [],
         "avatar": "",
         "birthday": ""
+    },
+    "char_002252": {
+        "id": "char_002252",
+        "name": "谷悠介",
+        "name_en": "Tani Yūsuke",
+        "ip_id": "ip_000658",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002253": {
+        "id": "char_002253",
+        "name": "福原多闻",
+        "name_en": "Fukuhara Tamon",
+        "ip_id": "ip_000793",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002254": {
+        "id": "char_002254",
+        "name": "理查一世",
+        "name_en": "Richard I",
+        "ip_id": "ip_000728",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002255": {
+        "id": "char_002255",
+        "name": "亨利",
+        "name_en": "Henri",
+        "ip_id": "ip_000804",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002256": {
+        "id": "char_002256",
+        "name": "查理",
+        "name_en": "Charlie",
+        "ip_id": "ip_000805",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002257": {
+        "id": "char_002257",
+        "name": "塔野和成",
+        "name_en": "Tōno Kazunari",
+        "ip_id": "ip_000792",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002258": {
+        "id": "char_002258",
+        "name": "界世之介",
+        "name_en": "Sakai Yonosuke",
+        "ip_id": "ip_000797",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002259": {
+        "id": "char_002259",
+        "name": "赛罗·佛鲁巴兹",
+        "name_en": "Xylo Forbartz",
+        "ip_id": "ip_000795",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002260": {
+        "id": "char_002260",
+        "name": "人间零",
+        "name_en": "Hitoma Rei",
+        "ip_id": "ip_000806",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002261": {
+        "id": "char_002261",
+        "name": "阿克亚丝提多·马琳冯雷斯特",
+        "name_en": "Aquasteed Marineforest",
+        "ip_id": "ip_000807",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002262": {
+        "id": "char_002262",
+        "name": "驹泽乃依",
+        "name_en": "Komazawa Noi",
+        "ip_id": "ip_000062",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002263": {
+        "id": "char_002263",
+        "name": "山吹有栖",
+        "name_en": "Yamabuki Arisu",
+        "ip_id": "ip_000794",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002264": {
+        "id": "char_002264",
+        "name": "石持毬祥",
+        "name_en": "Ishimochi Kyūshō",
+        "ip_id": "ip_000798",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002265": {
+        "id": "char_002265",
+        "name": "平秀司",
+        "name_en": "Taira Shūji",
+        "ip_id": "ip_000658",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002266": {
+        "id": "char_002266",
+        "name": "库诺·古里翁",
+        "name_en": "Kunon Gurion",
+        "ip_id": "ip_000808",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002267": {
+        "id": "char_002267",
+        "name": "山田健太郎",
+        "name_en": "Yamada Kentarō",
+        "ip_id": "ip_000658",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002268": {
+        "id": "char_002268",
+        "name": "宫本武藏",
+        "name_en": "Miyamoto Musashi",
+        "ip_id": "ip_000809",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002269": {
+        "id": "char_002269",
+        "name": "日车宽见",
+        "name_en": "Higuruma Hiromi",
+        "ip_id": "ip_000679",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002270": {
+        "id": "char_002270",
+        "name": "坂口樱利",
+        "name_en": "Sakaguchi Ōri",
+        "ip_id": "ip_000793",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002271": {
+        "id": "char_002271",
+        "name": "透乃眼明",
+        "name_en": "Tōnome Akira",
+        "ip_id": "ip_000803",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002272": {
+        "id": "char_002272",
+        "name": "阿尔涅·尼塔特",
+        "name_en": "Arne Neuntöte",
+        "ip_id": "ip_000799",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002273": {
+        "id": "char_002273",
+        "name": "东云始",
+        "name_en": "Shinonome Hajime",
+        "ip_id": "ip_000800",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
     }
 }
