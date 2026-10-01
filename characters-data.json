@@ -21593,5 +21593,275 @@
         ],
         "avatar": "",
         "birthday": "2月29日"
+    },
+    "char_002222": {
+        "id": "char_002222",
+        "name": "森亚露露卡",
+        "name_en": "Moria Luluka",
+        "ip_id": "ip_000791",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002223": {
+        "id": "char_002223",
+        "name": "高代槙生",
+        "name_en": "Kōdai Makio",
+        "ip_id": "ip_000792",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002224": {
+        "id": "char_002224",
+        "name": "田汲朝",
+        "name_en": "Takumi Asa",
+        "ip_id": "ip_000792",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002225": {
+        "id": "char_002225",
+        "name": "木下歌夏",
+        "name_en": "Kinoshita Utage",
+        "ip_id": "ip_000793",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002226": {
+        "id": "char_002226",
+        "name": "雨月忍",
+        "name_en": "Uzuki Shinobu",
+        "ip_id": "ip_000794",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002227": {
+        "id": "char_002227",
+        "name": "泰奥莉塔",
+        "name_en": "Teoritta",
+        "ip_id": "ip_000795",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002228": {
+        "id": "char_002228",
+        "name": "明智安娜",
+        "name_en": "Akechi Anna",
+        "ip_id": "ip_000791",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002229": {
+        "id": "char_002229",
+        "name": "幽鬼",
+        "name_en": "Sorimachi Yūki",
+        "ip_id": "ip_000796",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002230": {
+        "id": "char_002230",
+        "name": "水萌汐",
+        "name_en": "Minamo Shio",
+        "ip_id": "ip_000797",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002231": {
+        "id": "char_002231",
+        "name": "金目绵花奈",
+        "name_en": "Kinme Wakana",
+        "ip_id": "ip_000798",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002232": {
+        "id": "char_002232",
+        "name": "井之华六花",
+        "name_en": "Inohana Rikka",
+        "ip_id": "ip_000794",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002233": {
+        "id": "char_002233",
+        "name": "东紫乃",
+        "name_en": "Azuma Shino",
+        "ip_id": "ip_000658",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002234": {
+        "id": "char_002234",
+        "name": "绫香·沙条",
+        "name_en": "Ayaka Sajō",
+        "ip_id": "ip_000728",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002235": {
+        "id": "char_002235",
+        "name": "冈崎依瑠花",
+        "name_en": "Okazaki Iruka",
+        "ip_id": "ip_000214",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002236": {
+        "id": "char_002236",
+        "name": "琳·莱茵维斯",
+        "name_en": "Lynn Reinweiß",
+        "ip_id": "ip_000799",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002237": {
+        "id": "char_002237",
+        "name": "小林未来",
+        "name_en": "Kobayashi Mikuru",
+        "ip_id": "ip_000791",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002238": {
+        "id": "char_002238",
+        "name": "帆羽来爱",
+        "name_en": "Howa Kurea",
+        "ip_id": "ip_000791",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002239": {
+        "id": "char_002239",
+        "name": "日芽川宁宁",
+        "name_en": "Himekawa Nene",
+        "ip_id": "ip_000794",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002240": {
+        "id": "char_002240",
+        "name": "雾乃依子",
+        "name_en": "Kirino Iko",
+        "ip_id": "ip_000794",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002241": {
+        "id": "char_002241",
+        "name": "绫䌷芦花",
+        "name_en": "Ayatsumugi Roka",
+        "ip_id": "ip_000062",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002242": {
+        "id": "char_002242",
+        "name": "西奈津美",
+        "name_en": "Nishi Natsumi",
+        "ip_id": "ip_000658",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002243": {
+        "id": "char_002243",
+        "name": "月见瑠奈",
+        "name_en": "Tsukimi Runa",
+        "ip_id": "ip_000797",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002244": {
+        "id": "char_002244",
+        "name": "莉露",
+        "name_en": "Rirui",
+        "ip_id": "ip_000800",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002245": {
+        "id": "char_002245",
+        "name": "芦屋瑞稀",
+        "name_en": "Ashiya Mizuki",
+        "ip_id": "ip_000801",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002246": {
+        "id": "char_002246",
+        "name": "佐藤神八",
+        "name_en": "Satō Kaya",
+        "ip_id": "ip_000802",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002247": {
+        "id": "char_002247",
+        "name": "山城恋",
+        "name_en": "Yamashiro Ren",
+        "ip_id": "ip_000293",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002248": {
+        "id": "char_002248",
+        "name": "申川凛奈",
+        "name_en": "Sarukawa Rinna",
+        "ip_id": "ip_000214",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002249": {
+        "id": "char_002249",
+        "name": "火威灯",
+        "name_en": "Hiodoshi Akari",
+        "ip_id": "ip_000797",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002250": {
+        "id": "char_002250",
+        "name": "坂口日向",
+        "name_en": "Sakaguchi Hinata",
+        "ip_id": "ip_000154",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002251": {
+        "id": "char_002251",
+        "name": "夜香静花",
+        "name_en": "Yakō Shizuka",
+        "ip_id": "ip_000803",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
     }
 }

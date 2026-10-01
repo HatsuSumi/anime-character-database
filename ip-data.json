@@ -489,7 +489,7 @@
     },
     "ip_000062": {
         "id": "ip_000062",
-        "name": "超时空辉夜姬！",
+        "name": "超辉夜姬！",
         "name_en": "",
         "year": 0,
         "season": 0,
@@ -1084,7 +1084,7 @@
         "name": "干物妹！小埋",
         "name_en": "Himōto! Umaru-chan",
         "year": 2015,
-        "season": 7 ,
+        "season": 7,
         "company": ""
     },
     "ip_000137": {
@@ -6318,5 +6318,109 @@
         "year": 2025,
         "season": 4,
         "company": "TROYCA"
+    },
+    "ip_000791": {
+        "id": "ip_000791",
+        "name": "名侦探光之美少女！",
+        "name_en": "Meitantei Precure!",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000792": {
+        "id": "ip_000792",
+        "name": "他国日记",
+        "name_en": "Ikoku Nikki",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000793": {
+        "id": "ip_000793",
+        "name": "现在的是哪一个多闻？！",
+        "name_en": "Tamon-kun Ima Docchi!?",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000794": {
+        "id": "ip_000794",
+        "name": "午夜的倾心旋律",
+        "name_en": "Mayonaka Heart Tune",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000795": {
+        "id": "ip_000795",
+        "name": "判处勇者刑 惩罚勇者9004队刑务纪录",
+        "name_en": "Yūsha-kei ni Shosu: Chōbatsu Yūsha 9004-tai Keimu Kiroku",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000796": {
+        "id": "ip_000796",
+        "name": "靠死亡游戏混饭吃。",
+        "name_en": "Shibōyūgi de Meshi o Kuu",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000797": {
+        "id": "ip_000797",
+        "name": "和青梅竹马之间不会有恋爱喜剧",
+        "name_en": "Osananajimi to wa Love Comedy ni Naranai",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000798": {
+        "id": "ip_000798",
+        "name": "能帮我弄干净吗？",
+        "name_en": "Kirei ni Shitemoraemasu ka.",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000799": {
+        "id": "ip_000799",
+        "name": "阿尔涅的事件簿",
+        "name_en": "Arne no Jikenbo",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000800": {
+        "id": "ip_000800",
+        "name": "29岁单身中坚冒险家的日常",
+        "name_en": "29-sai Dokushin Chūken Bōkensha no Nichijō",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000801": {
+        "id": "ip_000801",
+        "name": "花样少年少女",
+        "name_en": "Hanazakari no Kimitachi e",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000802": {
+        "id": "ip_000802",
+        "name": "神八小妹不可怕",
+        "name_en": "Kaya-chan wa Kowakunai",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000803": {
+        "id": "ip_000803",
+        "name": "透明男子与人类女孩～两人迟早会成为夫妻～",
+        "name_en": "Tōmei Otoko to Ningen Onna: Sonouchi Fūfu ni Naru Futari",
+        "year": 0,
+        "season": 0,
+        "company": ""
     }
 }
