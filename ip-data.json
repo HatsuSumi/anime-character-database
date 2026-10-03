@@ -163,8 +163,8 @@
         "id": "ip_000021",
         "name": "坂本日常",
         "name_en": "SAKAMOTO DAYS",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 1,
         "company": ""
     },
     "ip_000022": {
@@ -451,8 +451,8 @@
         "id": "ip_000057",
         "name": "测不准的阿波连同学",
         "name_en": "Aharen-san wa Hakarenai",
-        "year": 0,
-        "season": 0,
+        "year": 2022,
+        "season": 4,
         "company": ""
     },
     "ip_000058": {
@@ -491,8 +491,8 @@
         "id": "ip_000062",
         "name": "超辉夜姬！",
         "name_en": "",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000063": {
@@ -731,8 +731,8 @@
         "id": "ip_000092",
         "name": "弹珠汽水瓶里的千岁同学",
         "name_en": "Chitose-kun wa Ramune Bin no Naka",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 10,
         "company": ""
     },
     "ip_000093": {
@@ -842,8 +842,8 @@
     "ip_000106": {
         "id": "ip_000106",
         "name": "电锯人",
-        "year": 0,
-        "season": 0,
+        "year": 2022,
+        "season": 10,
         "name_en": "Chainsaw Man",
         "company": ""
     },
@@ -883,8 +883,8 @@
         "id": "ip_000111",
         "name": "东岛丹三郎想成为假面骑士",
         "name_en": "Tōjima Tanzaburō wa Kamen Rider ni Naritai",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 10,
         "company": ""
     },
     "ip_000112": {
@@ -1098,8 +1098,8 @@
     "ip_000138": {
         "id": "ip_000138",
         "name": "钢之炼金术师",
-        "year": 0,
-        "season": 0,
+        "year": 2003,
+        "season": 10,
         "name_en": "Fullmetal Alchemist",
         "company": ""
     },
@@ -1226,8 +1226,8 @@
     "ip_000154": {
         "id": "ip_000154",
         "name": "关于我转生变成史莱姆这档事",
-        "year": 0,
-        "season": 0,
+        "year": 2018,
+        "season": 10,
         "name_en": "Tensei Shitara Slime Datta Ken",
         "company": ""
     },
@@ -1235,8 +1235,8 @@
         "id": "ip_000155",
         "name": "灌篮高手",
         "name_en": "Slam Dunk",
-        "year": 0,
-        "season": 0,
+        "year": 1993,
+        "season": 10,
         "company": ""
     },
     "ip_000156": {
@@ -1267,8 +1267,8 @@
         "id": "ip_000159",
         "name": "鬼泣系列",
         "name_en": "",
-        "year": 0,
-        "season": 0,
+        "year": 2007,
+        "season": 7,
         "company": ""
     },
     "ip_000160": {
@@ -1291,8 +1291,8 @@
         "id": "ip_000162",
         "name": "寒蝉鸣泣之时",
         "name_en": "Higurashi no Naku Koro ni",
-        "year": 0,
-        "season": 0,
+        "year": 2006,
+        "season": 4,
         "company": ""
     },
     "ip_000163": {
@@ -1539,8 +1539,8 @@
         "id": "ip_000193",
         "name": "机动战士高达",
         "name_en": "Mobile Suit Gundam",
-        "year": 0,
-        "season": 0,
+        "year": 1979,
+        "season": 4,
         "company": ""
     },
     "ip_000194": {
@@ -1707,8 +1707,8 @@
         "id": "ip_000214",
         "name": "金牌得主",
         "name_en": "Medalist",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 1,
         "company": ""
     },
     "ip_000215": {
@@ -1883,8 +1883,8 @@
         "id": "ip_000236",
         "name": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-",
         "name_en": "Clevatess",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 7,
         "company": ""
     },
     "ip_000237": {
@@ -1954,8 +1954,8 @@
     "ip_000245": {
         "id": "ip_000245",
         "name": "蓝色监狱",
-        "year": 0,
-        "season": 0,
+        "year": 2022,
+        "season": 10,
         "name_en": "Blue Lock",
         "company": ""
     },
@@ -2298,8 +2298,8 @@
     "ip_000288": {
         "id": "ip_000288",
         "name": "明日方舟",
-        "year": 0,
-        "season": 0,
+        "year": 2022,
+        "season": 10,
         "name_en": "Arknights",
         "company": ""
     },
@@ -2386,8 +2386,8 @@
     "ip_000299": {
         "id": "ip_000299",
         "name": "魔法少女奈叶",
-        "year": 0,
-        "season": 0,
+        "year": 2004,
+        "season": 10,
         "name_en": "Mahō Shōjo Lyrical Nanoha",
         "company": ""
     },
@@ -2467,15 +2467,15 @@
         "id": "ip_000309",
         "name": "魔女与使魔",
         "name_en": "WITCH WATCH",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 4,
         "company": ""
     },
     "ip_000310": {
         "id": "ip_000310",
         "name": "魔女之旅",
-        "year": 0,
-        "season": 0,
+        "year": 2020,
+        "season": 10,
         "name_en": "Majo no Tabitabi",
         "company": ""
     },
@@ -2595,8 +2595,8 @@
         "id": "ip_000325",
         "name": "逆转裁判",
         "name_en": "Gyakuten Saiban (Ace Attorney)",
-        "year": 0,
-        "season": 0,
+        "year": 2016,
+        "season": 4,
         "company": ""
     },
     "ip_000326": {
@@ -2731,8 +2731,8 @@
         "id": "ip_000342",
         "name": "破烂千金被姐姐的原婚约者溺爱着",
         "name_en": "Zutaboro Reijō wa Ane no Moto Konyakusha ni Dekiai Sareru",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 7,
         "company": ""
     },
     "ip_000343": {
@@ -2979,8 +2979,8 @@
         "id": "ip_000373",
         "name": "全修。",
         "name_en": "ZENSHU",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 1,
         "company": ""
     },
     "ip_000374": {
@@ -3363,8 +3363,8 @@
         "id": "ip_000421",
         "name": "世界计划 缤纷舞台！ feat. 初音未来",
         "name_en": "Project Sekai: Colorful Stage! feat. Hatsune Miku",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 1,
         "company": ""
     },
     "ip_000422": {
@@ -3523,8 +3523,8 @@
         "id": "ip_000441",
         "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
         "name_en": "Girumasu",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 1,
         "company": ""
     },
     "ip_000442": {
@@ -3923,8 +3923,8 @@
         "id": "ip_000491",
         "name": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
         "name_en": "WataNare",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 7,
         "company": ""
     },
     "ip_000492": {
@@ -4499,8 +4499,8 @@
         "id": "ip_000563",
         "name": "薰香花朵凛然绽放",
         "name_en": "Kaoru Hana wa Rin to Saku",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 7,
         "company": ""
     },
     "ip_000564": {
@@ -4658,8 +4658,8 @@
     "ip_000583": {
         "id": "ip_000583",
         "name": "一拳超人",
-        "year": 0,
-        "season": 0,
+        "year": 2015,
+        "season": 10,
         "name_en": "One-Punch Man",
         "company": ""
     },
@@ -4899,8 +4899,8 @@
         "id": "ip_000613",
         "name": "游戏王系列",
         "name_en": "Yu-Gi-Oh!",
-        "year": 0,
-        "season": 0,
+        "year": 1998,
+        "season": 4,
         "company": ""
     },
     "ip_000614": {
@@ -5106,8 +5106,8 @@
     "ip_000639": {
         "id": "ip_000639",
         "name": "在下坂本，有何贵干？",
-        "year": 0,
-        "season": 0,
+        "year": 2016,
+        "season": 4,
         "name_en": "Sakamoto Desu Ga?",
         "company": ""
     },
@@ -5259,8 +5259,8 @@
         "id": "ip_000658",
         "name": "正相反的你与我",
         "name_en": "",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000659": {
@@ -5363,8 +5363,8 @@
         "id": "ip_000671",
         "name": "终将成为你",
         "name_en": "Yagate Kimi ni Naru",
-        "year": 0,
-        "season": 0,
+        "year": 2018,
+        "season": 10,
         "company": ""
     },
     "ip_000672": {
@@ -5387,8 +5387,8 @@
         "id": "ip_000674",
         "name": "终末的女武神",
         "name_en": "Shūmatsu no Valkyrie",
-        "year": 0,
-        "season": 0,
+        "year": 2021,
+        "season": 7,
         "company": ""
     },
     "ip_000675": {
@@ -5499,8 +5499,8 @@
         "id": "ip_000688",
         "name": "紫云寺家的兄弟姐妹",
         "name_en": "Shiunji-ke no Kodomotachi",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 4,
         "company": ""
     },
     "ip_000689": {
@@ -5523,8 +5523,8 @@
         "id": "ip_000691",
         "name": "最后可以再拜托您一件事吗？",
         "name_en": "Saigo ni Hitotsu dake Onegai Shitemo Yoroshii Deshō ka",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 10,
         "company": ""
     },
     "ip_000692": {
@@ -6187,8 +6187,8 @@
         "id": "ip_000774",
         "name": "Silent Witch 沉默魔女的秘密",
         "name_en": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 7,
         "company": ""
     },
     "ip_000775": {
@@ -6226,8 +6226,8 @@
     "ip_000779": {
         "id": "ip_000779",
         "name": "Summer Pockets",
-        "year": 0,
-        "season": 0,
+        "year": 2025,
+        "season": 4,
         "name_en": "Summer Pockets",
         "company": ""
     },
@@ -6323,152 +6323,152 @@
         "id": "ip_000791",
         "name": "名侦探光之美少女！",
         "name_en": "Meitantei Precure!",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000792": {
         "id": "ip_000792",
         "name": "他国日记",
         "name_en": "Ikoku Nikki",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000793": {
         "id": "ip_000793",
         "name": "现在的是哪一个多闻？！",
         "name_en": "Tamon-kun Ima Docchi!?",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000794": {
         "id": "ip_000794",
         "name": "午夜的倾心旋律",
         "name_en": "Mayonaka Heart Tune",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000795": {
         "id": "ip_000795",
         "name": "判处勇者刑 惩罚勇者9004队刑务纪录",
         "name_en": "Yūsha-kei ni Shosu: Chōbatsu Yūsha 9004-tai Keimu Kiroku",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000796": {
         "id": "ip_000796",
         "name": "靠死亡游戏混饭吃。",
         "name_en": "Shibōyūgi de Meshi o Kuu",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000797": {
         "id": "ip_000797",
         "name": "和青梅竹马之间不会有恋爱喜剧",
         "name_en": "Osananajimi to wa Love Comedy ni Naranai",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000798": {
         "id": "ip_000798",
         "name": "能帮我弄干净吗？",
         "name_en": "Kirei ni Shitemoraemasu ka.",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000799": {
         "id": "ip_000799",
         "name": "阿尔涅的事件簿",
         "name_en": "Arne no Jikenbo",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000800": {
         "id": "ip_000800",
         "name": "29岁单身中坚冒险家的日常",
         "name_en": "29-sai Dokushin Chūken Bōkensha no Nichijō",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000801": {
         "id": "ip_000801",
         "name": "花样少年少女",
         "name_en": "Hanazakari no Kimitachi e",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000802": {
         "id": "ip_000802",
         "name": "神八小妹不可怕",
         "name_en": "Kaya-chan wa Kowakunai",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000803": {
         "id": "ip_000803",
         "name": "透明男子与人类女孩～两人迟早会成为夫妻～",
         "name_en": "Tōmei Otoko to Ningen Onna: Sonouchi Fūfu ni Naru Futari",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000804": {
         "id": "ip_000804",
         "name": "蘑菇魔女",
         "name_en": "Champignon no Majo",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000805": {
         "id": "ip_000805",
         "name": "达尔文事变",
         "name_en": "Darwin Jihen",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000806": {
         "id": "ip_000806",
         "name": "非人学生与厌世教师",
         "name_en": "Jingai Kyōshitsu no Ningen-girai Kyōshi",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000807": {
         "id": "ip_000807",
         "name": "被邻国王子溺爱的反派女主",
         "name_en": "Akuyaku Reijō wa Ringoku no Ōtaishi ni Dekiai Sareru",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000808": {
         "id": "ip_000808",
         "name": "魔术师库诺看得见一切",
         "name_en": "Majutsushi Kunon wa Mieteiru",
-        "year": 0,
-        "season": 0,
+        "year": 2026,
+        "season": 1,
         "company": ""
     },
     "ip_000809": {
         "id": "ip_000809",
         "name": "刃牙",
         "name_en": "Baki",
-        "year": 0,
-        "season": 0,
+        "year": 2001,
+        "season": 1,
         "company": ""
     }
 }
