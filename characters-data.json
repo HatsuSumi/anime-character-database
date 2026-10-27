@@ -22658,5 +22658,203 @@
         "cv": [],
         "avatar": "",
         "birthday": ""
+    },
+    "char_002315": {
+        "id": "char_002315",
+        "name": "梅茵",
+        "name_en": "Myne",
+        "ip_id": "ip_000830",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002316": {
+        "id": "char_002316",
+        "name": "露露西·露",
+        "name_en": "Lulucy Lu",
+        "ip_id": "ip_000831",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002317": {
+        "id": "char_002317",
+        "name": "八重森弥妮",
+        "name_en": "Yaemori Mini",
+        "ip_id": "ip_000690",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002318": {
+        "id": "char_002318",
+        "name": "安昙美姬",
+        "name_en": "Azumi Miki",
+        "ip_id": "ip_000814",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002319": {
+        "id": "char_002319",
+        "name": "神崎直",
+        "name_en": "Kanzaki Nao",
+        "ip_id": "ip_000828",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002320": {
+        "id": "char_002320",
+        "name": "天音庆",
+        "name_en": "Amane Kei",
+        "ip_id": "ip_000832",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002321": {
+        "id": "char_002321",
+        "name": "花叶雏菊",
+        "name_en": "Kayō Hinagiku",
+        "ip_id": "ip_000833",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002322": {
+        "id": "char_002322",
+        "name": "阿萨",
+        "name_en": "Asa",
+        "ip_id": "ip_000834",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002323": {
+        "id": "char_002323",
+        "name": "广濑爱贵",
+        "name_en": "Hirose Aiki",
+        "ip_id": "ip_000827",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002324": {
+        "id": "char_002324",
+        "name": "寒椿狼星",
+        "name_en": "Kantsubaki Rōsei",
+        "ip_id": "ip_000833",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002325": {
+        "id": "char_002325",
+        "name": "铃木入间",
+        "name_en": "Suzuki Iruma",
+        "ip_id": "ip_000383",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002326": {
+        "id": "char_002326",
+        "name": "我",
+        "name_en": "Ore",
+        "ip_id": "ip_000819",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002327": {
+        "id": "char_002327",
+        "name": "七海才",
+        "name_en": "Nanami Sai",
+        "ip_id": "ip_000725",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002328": {
+        "id": "char_002328",
+        "name": "摩绪",
+        "name_en": "Mao",
+        "ip_id": "ip_000835",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002329": {
+        "id": "char_002329",
+        "name": "扇寺东耶",
+        "name_en": "Senji Tōya",
+        "ip_id": "ip_000836",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002330": {
+        "id": "char_002330",
+        "name": "阿左美龙胆",
+        "name_en": "Azami Rindō",
+        "ip_id": "ip_000833",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002331": {
+        "id": "char_002331",
+        "name": "月落",
+        "name_en": "Yuru",
+        "ip_id": "ip_000834",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002332": {
+        "id": "char_002332",
+        "name": "狮子王司",
+        "name_en": "Shishiō Tsukasa",
+        "ip_id": "ip_000725",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002333": {
+        "id": "char_002333",
+        "name": "神咲雫",
+        "name_en": "Kanzaki Shizuku",
+        "ip_id": "ip_000837",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002334": {
+        "id": "char_002334",
+        "name": "大狼十三",
+        "name_en": "Ōgami Jūzō",
+        "ip_id": "ip_000838",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002335": {
+        "id": "char_002335",
+        "name": "洛基",
+        "name_en": "Loki",
+        "ip_id": "ip_000161",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002336": {
+        "id": "char_002336",
+        "name": "赤泽树",
+        "name_en": "Akazawa Itsuki",
+        "ip_id": "ip_000153",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
     }
 }

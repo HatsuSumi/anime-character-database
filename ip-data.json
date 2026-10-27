@@ -6630,5 +6630,77 @@
         "year": 0,
         "season": 0,
         "company": ""
+    },
+    "ip_000830": {
+        "id": "ip_000830",
+        "name": "小书痴的下克上",
+        "name_en": "Honzuki no Gekokujō",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000831": {
+        "id": "ip_000831",
+        "name": "异世界悠闲农家",
+        "name_en": "Isekai Nonbiri Nōka",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000832": {
+        "id": "ip_000832",
+        "name": "哪里有温柔对待阿宅的辣妹！？",
+        "name_en": "Otaku ni Yasashii Gal wa Inai!?",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000833": {
+        "id": "ip_000833",
+        "name": "春夏秋冬代行者",
+        "name_en": "Shunkashūtō Daikōsha",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000834": {
+        "id": "ip_000834",
+        "name": "黄泉使者",
+        "name_en": "Yomi no Tsugai",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000835": {
+        "id": "ip_000835",
+        "name": "MAO摩绪",
+        "name_en": "MAO",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000836": {
+        "id": "ip_000836",
+        "name": "轮回的花瓣",
+        "name_en": "Reincarnation no Kaben",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000837": {
+        "id": "ip_000837",
+        "name": "神之雫",
+        "name_en": "Kami no Shizuku",
+        "year": 0,
+        "season": 0,
+        "company": ""
+    },
+    "ip_000838": {
+        "id": "ip_000838",
+        "name": "杀手青春",
+        "name_en": "Kill Ao",
+        "year": 0,
+        "season": 0,
+        "company": ""
     }
 }
