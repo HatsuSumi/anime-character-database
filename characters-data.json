@@ -158,7 +158,9 @@
         "name": "阿莉娜·克洛瓦",
         "name_en": "Alina Clover",
         "ip_id": "ip_000441",
-        "cv": ["高桥李依"],
+        "cv": [
+            "高桥李依"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -1058,7 +1060,9 @@
         "name": "岸边露伴",
         "name_en": "Kishibe Rohan",
         "ip_id": "ip_000745",
-        "cv": ["樱井孝宏"],
+        "cv": [
+            "樱井孝宏"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -1183,7 +1187,9 @@
         "name": "八神疾风",
         "name_en": "Yagami Hayate",
         "ip_id": "ip_000299",
-        "cv": ["植田佳奈"],
+        "cv": [
+            "植田佳奈"
+        ],
         "avatar": "https://pic.imgdd.cc/i/034YkIkVp86YoXGCi9Jzwl.png",
         "birthday": ""
     },
@@ -1690,7 +1696,9 @@
         "name": "坂本太郎",
         "name_en": "Sakamoto Tarō",
         "ip_id": "ip_000021",
-        "cv": ["杉田智和"],
+        "cv": [
+            "杉田智和"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -1814,7 +1822,9 @@
         "name": "保科昴",
         "name_en": "Hoshina Subaru",
         "ip_id": "ip_000563",
-        "cv": ["山根绮"],
+        "cv": [
+            "山根绮"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -2406,7 +2416,9 @@
         "name": "布鲁诺·布加拉提",
         "name_en": "Bruno Buccellati",
         "ip_id": "ip_000745",
-        "cv": ["中村悠一"],
+        "cv": [
+            "中村悠一"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -2545,7 +2557,9 @@
         "name": "禅院真希",
         "name_en": "",
         "ip_id": "ip_000679",
-        "cv": ["小松未可子"],
+        "cv": [
+            "小松未可子"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -2736,7 +2750,9 @@
         "name": "成步堂龙一",
         "name_en": "Naruhodō Ryūichi (Phoenix Wright)",
         "ip_id": "ip_000325",
-        "cv": ["梶裕贵"],
+        "cv": [
+            "梶裕贵"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -3165,7 +3181,9 @@
         "name": "春原阳平",
         "name_en": "Sunohara Yōhei",
         "ip_id": "ip_000718",
-        "cv": ["阪口大助"],
+        "cv": [
+            "阪口大助"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -3785,7 +3803,9 @@
         "name": "东岛丹三郎",
         "name_en": "Tōjima Tanzaburō",
         "ip_id": "ip_000111",
-        "cv": ["小西克幸"],
+        "cv": [
+            "小西克幸"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -3794,7 +3814,9 @@
         "name": "东方仗助",
         "name_en": "Higashikata Josuke",
         "ip_id": "ip_000745",
-        "cv": ["小野友树"],
+        "cv": [
+            "小野友树"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -4122,7 +4144,9 @@
         "name": "法夫纳",
         "name_en": "Fafnir",
         "ip_id": "ip_000531",
-        "cv": ["小野大辅"],
+        "cv": [
+            "小野大辅"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -4236,7 +4260,9 @@
         "name": "菲利克斯·阿克·里迪尔",
         "name_en": "Felix Arc Ridill",
         "ip_id": "ip_000774",
-        "cv": ["坂田将吾"],
+        "cv": [
+            "坂田将吾"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -4777,7 +4803,9 @@
         "name": "甘织玲奈子",
         "name_en": "Amaori Renako",
         "ip_id": "ip_000491",
-        "cv": ["中村栞奈"],
+        "cv": [
+            "中村栞奈"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -4786,7 +4814,9 @@
         "name": "甘织遥奈",
         "name_en": "Amaori Haruna",
         "ip_id": "ip_000491",
-        "cv": ["相良茉优"],
+        "cv": [
+            "相良茉优"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -6579,7 +6609,9 @@
         "name": "辉夜",
         "name_en": "",
         "ip_id": "ip_000062",
-        "cv": ["夏吉优子"],
+        "cv": [
+            "夏吉优子"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -6742,7 +6774,9 @@
         "name": "基洛斯·格拉纳多",
         "name_en": "Kyros Granado",
         "ip_id": "ip_000342",
-        "cv": ["滨野大辉"],
+        "cv": [
+            "滨野大辉"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -6878,7 +6912,9 @@
         "name": "吉良吉影",
         "name_en": "Kira Yoshikage",
         "ip_id": "ip_000745",
-        "cv": ["森川智之"],
+        "cv": [
+            "森川智之"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7028,7 +7064,9 @@
         "name": "加藤羽未",
         "name_en": "Katō Umi",
         "ip_id": "ip_000779",
-        "cv": ["田中爱美"],
+        "cv": [
+            "田中爱美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7234,7 +7272,9 @@
         "name": "杰诺斯",
         "name_en": "Genos",
         "ip_id": "ip_000583",
-        "cv": ["石川界人"],
+        "cv": [
+            "石川界人"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7330,7 +7370,9 @@
         "name": "结束祈",
         "name_en": "Yuitsuka Inori",
         "ip_id": "ip_000214",
-        "cv": ["春濑夏美"],
+        "cv": [
+            "春濑夏美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7397,7 +7439,9 @@
         "name": "今村耕平",
         "name_en": "Imamura Kōhei",
         "ip_id": "ip_000037",
-        "cv": ["木村良平"],
+        "cv": [
+            "木村良平"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7593,7 +7637,9 @@
         "name": "镜音连",
         "name_en": "Kagamine Len",
         "ip_id": "ip_000421",
-        "cv": ["下田麻美"],
+        "cv": [
+            "下田麻美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7651,7 +7697,10 @@
         "name": "久岛鸥",
         "name_en": "Kushima Kamome",
         "ip_id": "ip_000779",
-        "cv": ["稗田宁宁", "岭内知美"],
+        "cv": [
+            "稗田宁宁",
+            "岭内知美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -7718,7 +7767,9 @@
         "name": "酒寄彩叶",
         "name_en": "",
         "ip_id": "ip_000062",
-        "cv": ["永濑安奈"],
+        "cv": [
+            "永濑安奈"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8137,7 +8188,9 @@
         "name": "空门苍",
         "name_en": "Sorakado Ao",
         "ip_id": "ip_000779",
-        "cv": ["高森奈津美"],
+        "cv": [
+            "高森奈津美"
+        ],
         "avatar": "https://pic.imgdd.cc/i/034YkfjFSxG0TFlZuMEKBJ.png",
         "birthday": ""
     },
@@ -8377,7 +8430,9 @@
         "name": "来堂章太",
         "name_en": "Raidō Shōta",
         "ip_id": "ip_000057",
-        "cv": ["寺岛拓笃"],
+        "cv": [
+            "寺岛拓笃"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8451,7 +8506,9 @@
         "name": "莱因哈鲁特·范·阿斯特雷亚",
         "name_en": "Reinhard van Astrea",
         "ip_id": "ip_000766",
-        "cv": ["中村悠一"],
+        "cv": [
+            "中村悠一"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8489,7 +8546,9 @@
         "name": "濑名紫阳花",
         "name_en": "Sena Ajisai",
         "ip_id": "ip_000491",
-        "cv": ["安斋由香里"],
+        "cv": [
+            "安斋由香里"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8560,7 +8619,9 @@
         "name": "狼崎光",
         "name_en": "Kamisaki Hikaru",
         "ip_id": "ip_000214",
-        "cv": ["市之濑加那"],
+        "cv": [
+            "市之濑加那"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8767,7 +8828,9 @@
         "name": "蕾塞",
         "name_en": "Reze",
         "ip_id": "ip_000106",
-        "cv": ["上田丽奈"],
+        "cv": [
+            "上田丽奈"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8776,7 +8839,9 @@
         "name": "黎恩·赛拉·班菲尔德",
         "name_en": "Liam Sera Banfield",
         "ip_id": "ip_000496",
-        "cv": ["川口莉奈"],
+        "cv": [
+            "川口莉奈"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -8925,7 +8990,9 @@
         "name": "利威尔·阿克曼",
         "name_en": "Levi Ackerman",
         "ip_id": "ip_000219",
-        "cv": ["神谷浩史"],
+        "cv": [
+            "神谷浩史"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -9193,7 +9260,9 @@
         "name": "铃木实优",
         "name_en": "",
         "ip_id": "ip_000658",
-        "cv": ["铃代纱弓"],
+        "cv": [
+            "铃代纱弓"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -9537,7 +9606,9 @@
         "name": "楼兰妃",
         "name_en": "Loulan",
         "ip_id": "ip_000577",
-        "cv": ["濑户麻沙美"],
+        "cv": [
+            "濑户麻沙美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -10210,7 +10281,9 @@
         "name": "梅特黛",
         "name_en": "",
         "ip_id": "ip_000640",
-        "cv": ["上田丽奈"],
+        "cv": [
+            "上田丽奈"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -10470,7 +10543,9 @@
         "name": "明浦路司",
         "name_en": "Akeuraji Tsukasa",
         "ip_id": "ip_000214",
-        "cv": ["大塚剛央"],
+        "cv": [
+            "大塚剛央"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -10989,7 +11064,9 @@
         "name": "内田优空",
         "name_en": "Uchida Yua",
         "ip_id": "ip_000092",
-        "cv": ["羊宫妃那"],
+        "cv": [
+            "羊宫妃那"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -11754,7 +11831,9 @@
         "name": "千岁朔",
         "name_en": "Chitose Saku",
         "ip_id": "ip_000092",
-        "cv": ["坂田将吾"],
+        "cv": [
+            "坂田将吾"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -11803,7 +11882,9 @@
         "name": "前原圭一",
         "name_en": "Maebara Keiichi",
         "ip_id": "ip_000162",
-        "cv": ["保志总一朗"],
+        "cv": [
+            "保志总一朗"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -12508,7 +12589,9 @@
         "name": "若月妮可",
         "name_en": "Wakatsuki Nico",
         "ip_id": "ip_000309",
-        "cv": ["川口莉奈"],
+        "cv": [
+            "川口莉奈"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -12907,7 +12990,9 @@
         "name": "沙耶",
         "name_en": "Saya",
         "ip_id": "ip_000310",
-        "cv": ["黑泽朋世"],
+        "cv": [
+            "黑泽朋世"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -13730,7 +13815,9 @@
         "name": "始皇帝",
         "name_en": "Qin Shi Huang",
         "ip_id": "ip_000674",
-        "cv": ["石川界人"],
+        "cv": [
+            "石川界人"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -14261,7 +14348,10 @@
         "name": "宿海仁太",
         "name_en": "Yadomi Jinta",
         "ip_id": "ip_000493",
-        "cv": ["入野自由", "田村睦心"],
+        "cv": [
+            "入野自由",
+            "田村睦心"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -14775,7 +14865,9 @@
         "name": "天马司",
         "name_en": "Tenma Tsukasa",
         "ip_id": "ip_000421",
-        "cv": ["广濑大介"],
+        "cv": [
+            "广濑大介"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -15145,7 +15237,9 @@
         "name": "土间大平",
         "name_en": "Doma Taihei",
         "ip_id": "ip_000136",
-        "cv": ["野岛健儿"],
+        "cv": [
+            "野岛健儿"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -15281,7 +15375,9 @@
         "name": "王冢真唯",
         "name_en": "Ōzuka Mai",
         "ip_id": "ip_000491",
-        "cv": ["大西沙织"],
+        "cv": [
+            "大西沙织"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -15383,7 +15479,9 @@
         "name": "韦伯·维尔维特",
         "name_en": "Waver Velvet",
         "ip_id": "ip_000728",
-        "cv": ["浪川大辅"],
+        "cv": [
+            "浪川大辅"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -15439,7 +15537,9 @@
         "name": "维吉尔",
         "name_en": "",
         "ip_id": "ip_000159",
-        "cv": ["平田广明"],
+        "cv": [
+            "平田广明"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -15721,7 +15821,9 @@
         "name": "武藤游戏",
         "name_en": "Mutō Yūgi",
         "ip_id": "ip_000613",
-        "cv": ["绪方惠美"],
+        "cv": [
+            "绪方惠美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -16192,7 +16294,9 @@
         "name": "夏亚·阿兹纳布尔",
         "name_en": "Char Aznable",
         "ip_id": "ip_000193",
-        "cv": ["池田秀一"],
+        "cv": [
+            "池田秀一"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -16201,7 +16305,9 @@
         "name": "夏泽朔",
         "name_en": "Natsusawa Saku",
         "ip_id": "ip_000563",
-        "cv": ["内山昂辉"],
+        "cv": [
+            "内山昂辉"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -16550,7 +16656,9 @@
         "name": "小柳香穗",
         "name_en": "Koyanagi Kaho",
         "ip_id": "ip_000491",
-        "cv": ["田中贵子"],
+        "cv": [
+            "田中贵子"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -16559,7 +16667,10 @@
         "name": "小糸侑",
         "name_en": "Koito Yū",
         "ip_id": "ip_000671",
-        "cv": ["高田忧希", "金元寿子"],
+        "cv": [
+            "高田忧希",
+            "金元寿子"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -16828,7 +16939,9 @@
         "name": "晓山瑞希",
         "name_en": "Akiyama Mizuki",
         "ip_id": "ip_000421",
-        "cv": ["佐藤日向"],
+        "cv": [
+            "佐藤日向"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -16922,7 +17035,9 @@
         "name": "辛耶·诺赞",
         "name_en": "Shinei Nouzen",
         "ip_id": "ip_000007",
-        "cv": ["千叶翔也"],
+        "cv": [
+            "千叶翔也"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -17735,7 +17850,10 @@
         "name": "野原广志",
         "name_en": "Nohara Hiroshi",
         "ip_id": "ip_000241",
-        "cv": ["藤原启治", "森川智之"],
+        "cv": [
+            "藤原启治",
+            "森川智之"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -18290,7 +18408,9 @@
         "name": "依田绚斗",
         "name_en": "Yorita Ayato",
         "ip_id": "ip_000563",
-        "cv": ["石桥阳彩"],
+        "cv": [
+            "石桥阳彩"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -18339,7 +18459,9 @@
         "name": "乙木守仁",
         "name_en": "Otogi Morihito",
         "ip_id": "ip_000309",
-        "cv": ["铃木崚汰"],
+        "cv": [
+            "铃木崚汰"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -18502,7 +18624,9 @@
         "name": "樱木花道",
         "name_en": "Sakuragi Hanamichi",
         "ip_id": "ip_000155",
-        "cv": ["草尾毅"],
+        "cv": [
+            "草尾毅"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -18607,7 +18731,9 @@
         "name": "鹰原羽依里",
         "name_en": "Takahara Hairi",
         "ip_id": "ip_000779",
-        "cv": ["千叶翔也"],
+        "cv": [
+            "千叶翔也"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -18883,7 +19009,9 @@
         "name": "芳冈由依",
         "name_en": "Yui-nyan",
         "ip_id": "ip_000706",
-        "cv": ["喜多村英梨"],
+        "cv": [
+            "喜多村英梨"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -19105,7 +19233,9 @@
         "name": "宇佐美翔平",
         "name_en": "Usami Shōhei",
         "ip_id": "ip_000563",
-        "cv": ["户谷菊之介"],
+        "cv": [
+            "户谷菊之介"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -19753,7 +19883,9 @@
         "name": "早川秋",
         "name_en": "Hayakawa Aki",
         "ip_id": "ip_000106",
-        "cv": ["坂田将吾"],
+        "cv": [
+            "坂田将吾"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -20331,7 +20463,9 @@
         "name": "只野仁人",
         "name_en": "Tadano Hitohito",
         "ip_id": "ip_000148",
-        "cv": ["梶原岳人"],
+        "cv": [
+            "梶原岳人"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -20649,7 +20783,9 @@
         "name": "柊夕湖",
         "name_en": "Hiiragi Yūko",
         "ip_id": "ip_000092",
-        "cv": ["石见舞菜香"],
+        "cv": [
+            "石见舞菜香"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21323,7 +21459,9 @@
         "name": "䌷凛太郎",
         "name_en": "Tsumugi Rintarō",
         "ip_id": "ip_000563",
-        "cv": ["中山祥德"],
+        "cv": [
+            "中山祥德"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21332,7 +21470,9 @@
         "name": "䌷文德斯",
         "name_en": "Tsumugi Wenders",
         "ip_id": "ip_000779",
-        "cv": ["岩井映美里"],
+        "cv": [
+            "岩井映美里"
+        ],
         "avatar": "",
         "birthday": "8月31日"
     },
@@ -21379,7 +21519,9 @@
         "name": "KING",
         "name_en": "King",
         "ip_id": "ip_000583",
-        "cv": ["安元洋贵"],
+        "cv": [
+            "安元洋贵"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21581,7 +21723,9 @@
         "name": "森亚露露卡",
         "name_en": "Moria Luluka",
         "ip_id": "ip_000791",
-        "cv": ["东山奈央"],
+        "cv": [
+            "东山奈央"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21590,7 +21734,9 @@
         "name": "高代槙生",
         "name_en": "Kōdai Makio",
         "ip_id": "ip_000792",
-        "cv": ["泽城美雪"],
+        "cv": [
+            "泽城美雪"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21599,7 +21745,9 @@
         "name": "田汲朝",
         "name_en": "Takumi Asa",
         "ip_id": "ip_000792",
-        "cv": ["森风子"],
+        "cv": [
+            "森风子"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21608,7 +21756,9 @@
         "name": "木下歌夏",
         "name_en": "Kinoshita Utage",
         "ip_id": "ip_000793",
-        "cv": ["早见沙织"],
+        "cv": [
+            "早见沙织"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21617,7 +21767,9 @@
         "name": "雨月忍",
         "name_en": "Uzuki Shinobu",
         "ip_id": "ip_000794",
-        "cv": ["伊藤美来"],
+        "cv": [
+            "伊藤美来"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21626,7 +21778,9 @@
         "name": "泰奥莉塔",
         "name_en": "Teoritta",
         "ip_id": "ip_000795",
-        "cv": ["饭冢麻结"],
+        "cv": [
+            "饭冢麻结"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21635,7 +21789,9 @@
         "name": "明智安娜",
         "name_en": "Akechi Anna",
         "ip_id": "ip_000791",
-        "cv": ["千贺光莉"],
+        "cv": [
+            "千贺光莉"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21644,7 +21800,9 @@
         "name": "幽鬼",
         "name_en": "Sorimachi Yūki",
         "ip_id": "ip_000796",
-        "cv": ["三浦千幸"],
+        "cv": [
+            "三浦千幸"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21653,7 +21811,9 @@
         "name": "水萌汐",
         "name_en": "Minamo Shio",
         "ip_id": "ip_000797",
-        "cv": ["久住琳"],
+        "cv": [
+            "久住琳"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21662,7 +21822,9 @@
         "name": "金目绵花奈",
         "name_en": "Kinme Wakana",
         "ip_id": "ip_000798",
-        "cv": ["铃代纱弓"],
+        "cv": [
+            "铃代纱弓"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21671,7 +21833,9 @@
         "name": "井之华六花",
         "name_en": "Inohana Rikka",
         "ip_id": "ip_000794",
-        "cv": ["濑户桃子"],
+        "cv": [
+            "濑户桃子"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21680,7 +21844,9 @@
         "name": "东紫乃",
         "name_en": "Azuma Shino",
         "ip_id": "ip_000658",
-        "cv": ["岛袋美由利"],
+        "cv": [
+            "岛袋美由利"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21689,7 +21855,9 @@
         "name": "绫香·沙条",
         "name_en": "Ayaka Sajō",
         "ip_id": "ip_000728",
-        "cv": ["花泽香菜"],
+        "cv": [
+            "花泽香菜"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21698,7 +21866,9 @@
         "name": "冈崎依瑠花",
         "name_en": "Okazaki Iruka",
         "ip_id": "ip_000214",
-        "cv": ["山村响"],
+        "cv": [
+            "山村响"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21707,7 +21877,9 @@
         "name": "琳·莱茵维斯",
         "name_en": "Lynn Reinweiß",
         "ip_id": "ip_000799",
-        "cv": ["贯井柚佳"],
+        "cv": [
+            "贯井柚佳"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21716,7 +21888,9 @@
         "name": "小林未来",
         "name_en": "Kobayashi Mikuru",
         "ip_id": "ip_000791",
-        "cv": ["本渡枫"],
+        "cv": [
+            "本渡枫"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21725,7 +21899,9 @@
         "name": "帆羽来爱",
         "name_en": "Howa Kurea",
         "ip_id": "ip_000791",
-        "cv": ["长谷川育美"],
+        "cv": [
+            "长谷川育美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21734,7 +21910,9 @@
         "name": "日芽川宁宁",
         "name_en": "Himekawa Nene",
         "ip_id": "ip_000794",
-        "cv": ["大久保瑠美"],
+        "cv": [
+            "大久保瑠美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21743,7 +21921,9 @@
         "name": "雾乃依子",
         "name_en": "Kirino Iko",
         "ip_id": "ip_000794",
-        "cv": ["铃代纱弓"],
+        "cv": [
+            "铃代纱弓"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21752,7 +21932,9 @@
         "name": "绫䌷芦花",
         "name_en": "Ayatsumugi Roka",
         "ip_id": "ip_000062",
-        "cv": ["青山吉能"],
+        "cv": [
+            "青山吉能"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21761,7 +21943,9 @@
         "name": "西奈津美",
         "name_en": "Nishi Natsumi",
         "ip_id": "ip_000658",
-        "cv": ["大森心"],
+        "cv": [
+            "大森心"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21770,7 +21954,9 @@
         "name": "月见瑠奈",
         "name_en": "Tsukimi Runa",
         "ip_id": "ip_000797",
-        "cv": ["平冢纱依"],
+        "cv": [
+            "平冢纱依"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21779,7 +21965,9 @@
         "name": "莉露",
         "name_en": "Rirui",
         "ip_id": "ip_000800",
-        "cv": ["铃代纱弓"],
+        "cv": [
+            "铃代纱弓"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21788,7 +21976,9 @@
         "name": "芦屋瑞稀",
         "name_en": "Ashiya Mizuki",
         "ip_id": "ip_000801",
-        "cv": ["山根绮"],
+        "cv": [
+            "山根绮"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21797,7 +21987,9 @@
         "name": "佐藤神八",
         "name_en": "Satō Kaya",
         "ip_id": "ip_000802",
-        "cv": ["橘杏咲"],
+        "cv": [
+            "橘杏咲"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21806,7 +21998,9 @@
         "name": "山城恋",
         "name_en": "Yamashiro Ren",
         "ip_id": "ip_000293",
-        "cv": ["花泽香菜"],
+        "cv": [
+            "花泽香菜"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21815,7 +22009,9 @@
         "name": "申川凛奈",
         "name_en": "Sarukawa Rinna",
         "ip_id": "ip_000214",
-        "cv": ["伊藤舞音"],
+        "cv": [
+            "伊藤舞音"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21824,7 +22020,9 @@
         "name": "火威灯",
         "name_en": "Hiodoshi Akari",
         "ip_id": "ip_000797",
-        "cv": ["芹泽优"],
+        "cv": [
+            "芹泽优"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21833,7 +22031,9 @@
         "name": "坂口日向",
         "name_en": "Sakaguchi Hinata",
         "ip_id": "ip_000154",
-        "cv": ["沼仓爱美"],
+        "cv": [
+            "沼仓爱美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21842,7 +22042,9 @@
         "name": "夜香静花",
         "name_en": "Yakō Shizuka",
         "ip_id": "ip_000803",
-        "cv": ["贯井柚佳"],
+        "cv": [
+            "贯井柚佳"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21851,7 +22053,9 @@
         "name": "谷悠介",
         "name_en": "Tani Yūsuke",
         "ip_id": "ip_000658",
-        "cv": ["坂田将吾"],
+        "cv": [
+            "坂田将吾"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21860,7 +22064,9 @@
         "name": "福原多闻",
         "name_en": "Fukuhara Tamon",
         "ip_id": "ip_000793",
-        "cv": ["波多野翔"],
+        "cv": [
+            "波多野翔"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21869,7 +22075,9 @@
         "name": "理查一世",
         "name_en": "Richard I",
         "ip_id": "ip_000728",
-        "cv": ["小野友树"],
+        "cv": [
+            "小野友树"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21878,7 +22086,9 @@
         "name": "亨利",
         "name_en": "Henri",
         "ip_id": "ip_000804",
-        "cv": ["千叶翔也"],
+        "cv": [
+            "千叶翔也"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21887,7 +22097,9 @@
         "name": "查理",
         "name_en": "Charlie",
         "ip_id": "ip_000805",
-        "cv": ["种崎敦美"],
+        "cv": [
+            "种崎敦美"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21896,7 +22108,9 @@
         "name": "塔野和成",
         "name_en": "Tōno Kazunari",
         "ip_id": "ip_000792",
-        "cv": ["近藤隆"],
+        "cv": [
+            "近藤隆"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21905,7 +22119,9 @@
         "name": "界世之介",
         "name_en": "Sakai Yonosuke",
         "ip_id": "ip_000797",
-        "cv": ["浦尾岳大"],
+        "cv": [
+            "浦尾岳大"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21914,7 +22130,9 @@
         "name": "赛罗·佛鲁巴兹",
         "name_en": "Xylo Forbartz",
         "ip_id": "ip_000795",
-        "cv": ["阿座上洋平"],
+        "cv": [
+            "阿座上洋平"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21923,7 +22141,9 @@
         "name": "人间零",
         "name_en": "Hitoma Rei",
         "ip_id": "ip_000806",
-        "cv": ["增田俊树"],
+        "cv": [
+            "增田俊树"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21932,7 +22152,9 @@
         "name": "阿克亚丝提多·马琳冯雷斯特",
         "name_en": "Aquasteed Marineforest",
         "ip_id": "ip_000807",
-        "cv": ["梅原裕一郎"],
+        "cv": [
+            "梅原裕一郎"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21941,7 +22163,9 @@
         "name": "驹泽乃依",
         "name_en": "Komazawa Noi",
         "ip_id": "ip_000062",
-        "cv": ["松冈祯丞"],
+        "cv": [
+            "松冈祯丞"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21950,7 +22174,9 @@
         "name": "山吹有栖",
         "name_en": "Yamabuki Arisu",
         "ip_id": "ip_000794",
-        "cv": ["安田陆矢"],
+        "cv": [
+            "安田陆矢"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21959,7 +22185,9 @@
         "name": "石持毬祥",
         "name_en": "Ishimochi Kyūshō",
         "ip_id": "ip_000798",
-        "cv": ["石持毬祥"],
+        "cv": [
+            "石持毬祥"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21968,7 +22196,9 @@
         "name": "平秀司",
         "name_en": "Taira Shūji",
         "ip_id": "ip_000658",
-        "cv": ["加藤涉"],
+        "cv": [
+            "加藤涉"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21977,7 +22207,9 @@
         "name": "库诺·古里翁",
         "name_en": "Kunon Gurion",
         "ip_id": "ip_000808",
-        "cv": ["早见沙织"],
+        "cv": [
+            "早见沙织"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21986,7 +22218,9 @@
         "name": "山田健太郎",
         "name_en": "Yamada Kentarō",
         "ip_id": "ip_000658",
-        "cv": ["岩田安司"],
+        "cv": [
+            "岩田安司"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -21995,7 +22229,9 @@
         "name": "宫本武藏",
         "name_en": "Miyamoto Musashi",
         "ip_id": "ip_000809",
-        "cv": ["内田直哉"],
+        "cv": [
+            "内田直哉"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -22004,7 +22240,9 @@
         "name": "日车宽见",
         "name_en": "Higuruma Hiromi",
         "ip_id": "ip_000679",
-        "cv": ["杉田智和"],
+        "cv": [
+            "杉田智和"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -22013,7 +22251,9 @@
         "name": "坂口樱利",
         "name_en": "Sakaguchi Ōri",
         "ip_id": "ip_000793",
-        "cv": ["千叶翔也"],
+        "cv": [
+            "千叶翔也"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -22022,7 +22262,9 @@
         "name": "透乃眼明",
         "name_en": "Tōnome Akira",
         "ip_id": "ip_000803",
-        "cv": ["阿座上洋平"],
+        "cv": [
+            "阿座上洋平"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -22031,7 +22273,9 @@
         "name": "阿尔涅·尼塔特",
         "name_en": "Arne Neuntöte",
         "ip_id": "ip_000799",
-        "cv": ["内山昂辉"],
+        "cv": [
+            "内山昂辉"
+        ],
         "avatar": "",
         "birthday": ""
     },
@@ -22040,7 +22284,378 @@
         "name": "东云始",
         "name_en": "Shinonome Hajime",
         "ip_id": "ip_000800",
-        "cv": ["古川慎"],
+        "cv": [
+            "古川慎"
+        ],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002274": {
+        "id": "char_002274",
+        "name": "夏乌拉",
+        "name_en": "Shaula",
+        "ip_id": "ip_000766",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002275": {
+        "id": "char_002275",
+        "name": "上伊那牡丹",
+        "name_en": "Kamiina Botan",
+        "ip_id": "ip_000810",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002276": {
+        "id": "char_002276",
+        "name": "砺波伊吹",
+        "name_en": "Tonami Ibuki",
+        "ip_id": "ip_000810",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002277": {
+        "id": "char_002277",
+        "name": "郡上奏",
+        "name_en": "Gujō Kanade",
+        "ip_id": "ip_000810",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002278": {
+        "id": "char_002278",
+        "name": "樱美玖",
+        "name_en": "Sakura Miku",
+        "ip_id": "ip_000811",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002279": {
+        "id": "char_002279",
+        "name": "天海夕",
+        "name_en": "Amami Yū",
+        "ip_id": "ip_000812",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002280": {
+        "id": "char_002280",
+        "name": "珀珀·洛丽波",
+        "name_en": "Purple Lollipop",
+        "ip_id": "ip_000681",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002281": {
+        "id": "char_002281",
+        "name": "卡茜",
+        "name_en": "Kache",
+        "ip_id": "ip_000681",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002282": {
+        "id": "char_002282",
+        "name": "藤岛慈",
+        "name_en": "Fujishima Megumi",
+        "ip_id": "ip_000752",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002283": {
+        "id": "char_002283",
+        "name": "可可",
+        "name_en": "Coco",
+        "ip_id": "ip_000813",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002284": {
+        "id": "char_002284",
+        "name": "冰川小雪",
+        "name_en": "Hikawa Koyuki",
+        "ip_id": "ip_000814",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002285": {
+        "id": "char_002285",
+        "name": "朝凪海",
+        "name_en": "Asanagi Umi",
+        "ip_id": "ip_000812",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002286": {
+        "id": "char_002286",
+        "name": "七濑翼",
+        "name_en": "Nanase Tsubasa",
+        "ip_id": "ip_000178",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002287": {
+        "id": "char_002287",
+        "name": "高洁迦楠",
+        "name_en": "Takakiyo Kanan",
+        "ip_id": "ip_000815",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002288": {
+        "id": "char_002288",
+        "name": "张景岚",
+        "name_en": "Chang Chin-Lan",
+        "ip_id": "ip_000810",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002289": {
+        "id": "char_002289",
+        "name": "小日向微笑",
+        "name_en": "Kohinata Poem",
+        "ip_id": "ip_000816",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002290": {
+        "id": "char_002290",
+        "name": "樱咲朱音",
+        "name_en": "Osaki Akane",
+        "ip_id": "ip_000817",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002291": {
+        "id": "char_002291",
+        "name": "芭蒂雅·伊弗·诺切斯",
+        "name_en": "Bertia Ibil Noches",
+        "ip_id": "ip_000818",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002292": {
+        "id": "char_002292",
+        "name": "女神",
+        "name_en": "Goddess",
+        "ip_id": "ip_000819",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002293": {
+        "id": "char_002293",
+        "name": "天泽一夏",
+        "name_en": "Amasawa Ichika",
+        "ip_id": "ip_000178",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002294": {
+        "id": "char_002294",
+        "name": "狱蔷薇美血华",
+        "name_en": "Gokubara Michica",
+        "ip_id": "ip_000681",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002295": {
+        "id": "char_002295",
+        "name": "赛拉菲娜·德·拉维兰特",
+        "name_en": "Serafina de Lavillant",
+        "ip_id": "ip_000820",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002296": {
+        "id": "char_002296",
+        "name": "丝碧卡·瓦戈",
+        "name_en": "Spica Virgo",
+        "ip_id": "ip_000821",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002297": {
+        "id": "char_002297",
+        "name": "雷德·阿斯特雷亚",
+        "name_en": "Reid Astrea",
+        "ip_id": "ip_000766",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002298": {
+        "id": "char_002298",
+        "name": "下吕光",
+        "name_en": "Gero Hikaru",
+        "ip_id": "ip_000822",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002299": {
+        "id": "char_002299",
+        "name": "浅葱优希也",
+        "name_en": "Asagi Yukiya",
+        "ip_id": "ip_000811",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002300": {
+        "id": "char_002300",
+        "name": "朝仓光一",
+        "name_en": "Asakura Kōichi",
+        "ip_id": "ip_000823",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002301": {
+        "id": "char_002301",
+        "name": "前原真树",
+        "name_en": "Maehara Maki",
+        "ip_id": "ip_000812",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002302": {
+        "id": "char_002302",
+        "name": "雨宫凑",
+        "name_en": "Amamiya Minato",
+        "ip_id": "ip_000814",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002303": {
+        "id": "char_002303",
+        "name": "追月朔也",
+        "name_en": "Ōtsuki Sakuya",
+        "ip_id": "ip_000824",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002304": {
+        "id": "char_002304",
+        "name": "城崎芽衣",
+        "name_en": "Kinosaki Mei",
+        "ip_id": "ip_000822",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002305": {
+        "id": "char_002305",
+        "name": "宝泉和臣",
+        "name_en": "Hōsen Kazuomi",
+        "ip_id": "ip_000178",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002306": {
+        "id": "char_002306",
+        "name": "真田秋也",
+        "name_en": "Sanada Shūya",
+        "ip_id": "ip_000825",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002307": {
+        "id": "char_002307",
+        "name": "流镝马铁男",
+        "name_en": "Yabusame Tetsuo",
+        "ip_id": "ip_000826",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002308": {
+        "id": "char_002308",
+        "name": "奇弗利",
+        "name_en": "Qifrey",
+        "ip_id": "ip_000813",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002309": {
+        "id": "char_002309",
+        "name": "樱大门统悟",
+        "name_en": "Sakuradaimon Tōgo",
+        "ip_id": "ip_000816",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002310": {
+        "id": "char_002310",
+        "name": "中村男久斗",
+        "name_en": "Nakamura Okuto",
+        "ip_id": "ip_000827",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002311": {
+        "id": "char_002311",
+        "name": "秋山深一",
+        "name_en": "Akiyama Shin'ichi",
+        "ip_id": "ip_000828",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002312": {
+        "id": "char_002312",
+        "name": "灰原夏希",
+        "name_en": "Haibara Natsuki",
+        "ip_id": "ip_000184",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002313": {
+        "id": "char_002313",
+        "name": "赛希尔·葛罗·阿尔法斯塔",
+        "name_en": "Cecil Glo Alphasta",
+        "ip_id": "ip_000818",
+        "cv": [],
+        "avatar": "",
+        "birthday": ""
+    },
+    "char_002314": {
+        "id": "char_002314",
+        "name": "三角青辉",
+        "name_en": "Misumi Aoteru",
+        "ip_id": "ip_000829",
+        "cv": [],
         "avatar": "",
         "birthday": ""
     }
